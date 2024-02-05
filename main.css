@@ -1,0 +1,65 @@
+.logo {
+width: 220px;
+height: auto;
+}
+.profile {
+   text-align: center;
+   padding: 50px 50px 50px 50px;
+}
+
+.side-title > h3 {
+   font-size: 21px;
+   margin-bottom: 3px;
+}
+.side-title > p {
+   font-size: 15px;
+   margin-bottom: 3px;
+}
+.sosial-media > img {
+   width: 30px;
+   height:auto;
+}
+.navbar-custom {
+   background-image: url(images/bg-menu.jpg);
+}
+li.active {
+   background-image: url(images/bg-menu-hover.png);
+}
+.judul {
+   color: #153870;
+}
+.news > .title {
+   color: #6294c0;
+}
+.footer {
+   background-color: #0F3065;
+}
+.kartu > img {
+   width: 300px;
+   height: 250px;
+   border-radius: 10px;
+   border: 6px solid white;
+   background-color: #BABEBE;
+
+
+}
+.card-img-top {
+   height: 100px;
+   width: 100px;
+   border-radius: 0px;
+}
+.card {
+   background-color:	#ccccff;
+   align-items: center;
+   display: flex;
+   flex-direction: column;
+   padding-top: 10px;
+   border-radius: 0px;
+   
+}
+.btn-primary {
+   border-radius: 0px;
+}
+.back {
+   background-color: #E6E6FA;
+}
